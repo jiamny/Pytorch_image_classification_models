@@ -2,7 +2,7 @@
 
 Train pytorch image classification models on the 102 category flower dataset.
 
-<img src="index.png" width=300>
+![Alt text](./data/example.jpg?raw=true)
 
 ## Image data
 
