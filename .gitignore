@@ -12,6 +12,7 @@ models/*.pth
 .project
 *.iml
 *.py
+*.gz
 .settings/
 
 
